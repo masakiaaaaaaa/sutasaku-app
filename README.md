@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sutasaku.com" target="_blank"><img src="https://img.shields.io/badge/公式サイト-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"></a>
-  <a href="https://sutasaku.com/demo/trial.php" target="_blank"><img src="https://img.shields.io/badge/デモ版を体験-FF6F61?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Try Demo"></a>
+  <a href="https://sutasaku.com/demo/trial" target="_blank"><img src="https://img.shields.io/badge/デモ版を体験-FF6F61?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Try Demo"></a>
 </p>
 
 <p align="center">
