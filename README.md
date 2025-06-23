@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/masakiaaaaaaa/sutasaku-app/blob/main/%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%AF%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf" alt="スタサク チラシ" width="600"/>
+  <img src="[https://github.com/masakiaaaaaaa/sutasaku-app/blob/main/%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%AF%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf]" alt="スタサク チラシ" width="600"/>
 </p>
 
 
